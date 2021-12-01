@@ -84,6 +84,7 @@ URL: GET localhost:8080/
 ### Add new user
 
 **URL:** POST localhost:8080/addUser
+
 Body
 
 ```json
@@ -116,6 +117,7 @@ Body
 ### Update a user
 
 **URL:** PUT localhost:8080/updateUser
+
 Body
 
 ```json
@@ -144,6 +146,7 @@ Body
 ### Delete a user
 
 **URL:** DELETE localhost:8080/deleteUser
+
 Body
 
 ```json
